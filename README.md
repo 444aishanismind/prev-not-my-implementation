@@ -1,5 +1,5 @@
 # prev-not-my-implementation
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+my profile : https://leetcode.com/u/444aishanismind/
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
