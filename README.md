@@ -7,6 +7,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -37,11 +38,13 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -65,5 +68,14 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
