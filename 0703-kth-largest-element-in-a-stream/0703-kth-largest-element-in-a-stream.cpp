@@ -21,7 +21,7 @@ public:
         minHeap.push(val); 
         
         //  If the heap size exceeds k, remove the smallest element
-        if (minHeap.size() > (size_t)k) {
+        if (minHeap.size() > k) {
             minHeap.pop();
         }
         
