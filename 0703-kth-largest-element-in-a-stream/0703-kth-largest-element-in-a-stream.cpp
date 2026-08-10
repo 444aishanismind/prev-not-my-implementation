@@ -12,11 +12,11 @@ public:
         this->k = k;//  saves incoming k value into the class so that other methods can remember it 
         // Feed all initial numbers into the heap using our add function
         for (int num : nums) {
-            add(num);
+           add(num);
         }
     }
     
-    int add(int val) {
+     int add(int val) {
         //  Push the new value into the min-heap
         minHeap.push(val); 
         
