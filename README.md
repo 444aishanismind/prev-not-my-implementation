@@ -6,6 +6,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
@@ -73,6 +74,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
