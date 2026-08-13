@@ -13,6 +13,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -136,8 +137,17 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Stack
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
