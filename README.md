@@ -111,6 +111,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -118,12 +119,14 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -160,6 +163,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -185,4 +189,8 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
