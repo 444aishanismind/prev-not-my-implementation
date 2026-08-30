@@ -136,6 +136,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0355-design-twitter) |
+| [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -169,6 +170,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
@@ -198,4 +200,9 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
