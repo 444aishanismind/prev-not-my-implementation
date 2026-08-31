@@ -136,6 +136,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
