@@ -23,6 +23,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
