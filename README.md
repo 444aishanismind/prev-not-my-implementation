@@ -23,6 +23,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -214,4 +215,8 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
