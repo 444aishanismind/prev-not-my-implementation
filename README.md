@@ -14,6 +14,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -179,6 +180,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
 |  |
@@ -200,6 +202,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
