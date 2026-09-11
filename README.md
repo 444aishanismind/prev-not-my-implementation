@@ -21,6 +21,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3875-construct-uniform-parity-array-i) |
@@ -122,6 +123,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -213,6 +215,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
@@ -220,6 +223,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0024-swap-nodes-in-pairs](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0203-remove-linked-list-elements) |
 | [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
