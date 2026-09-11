@@ -13,6 +13,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
@@ -160,6 +161,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | ------- |
 | [0355-design-twitter](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
@@ -188,6 +190,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [2487-remove-nodes-from-linked-list](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
