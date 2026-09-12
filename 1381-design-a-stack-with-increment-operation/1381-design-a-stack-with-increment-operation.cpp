@@ -13,7 +13,7 @@ public:
     }
 
     void push(int x) {
-        if (topIndex < (int)(stackVector.size()) - 1) {
+        if (topIndex < ((int)stackVector.size()) - 1) {
             stackVector[++topIndex] = x;
         }
     }
