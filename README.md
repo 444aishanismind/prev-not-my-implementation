@@ -10,6 +10,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
+| [0794-valid-tic-tac-toe-state](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0794-valid-tic-tac-toe-state) |
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0946-validate-stack-sequences) |
@@ -243,4 +244,8 @@ my profile : https://leetcode.com/u/444aishanismind/
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3904-smallest-stable-index-ii) |
+## Matrix
+|  |
+| ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0794-valid-tic-tac-toe-state) |
 <!---LeetCode Topics End-->
