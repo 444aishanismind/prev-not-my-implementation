@@ -34,6 +34,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
@@ -248,4 +249,8 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0794-valid-tic-tac-toe-state](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0794-valid-tic-tac-toe-state) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
