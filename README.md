@@ -18,6 +18,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -47,6 +48,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
@@ -109,6 +111,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +127,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -180,6 +184,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
