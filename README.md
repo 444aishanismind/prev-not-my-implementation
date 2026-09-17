@@ -80,6 +80,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +89,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0355-design-twitter](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 ## Quickselect
 |  |
 | ------- |
@@ -130,6 +132,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -141,6 +144,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -148,6 +152,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bucket Sort
 |  |
@@ -192,6 +197,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
