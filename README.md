@@ -200,6 +200,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
@@ -232,6 +233,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0946-validate-stack-sequences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
