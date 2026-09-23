@@ -26,6 +26,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,6 +41,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1401-circle-and-rectangle-overlapping](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
+| [3524-find-x-value-of-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3871-count-commas-in-range-ii) |
@@ -51,6 +53,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
+| [3524-find-x-value-of-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
