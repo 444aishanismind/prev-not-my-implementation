@@ -20,6 +20,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -134,6 +135,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
@@ -200,6 +202,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
