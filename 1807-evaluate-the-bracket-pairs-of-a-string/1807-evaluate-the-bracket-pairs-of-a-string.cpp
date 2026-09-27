@@ -2,8 +2,9 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         unordered_map<string, string> mp;
-        for (const auto& pair : knowledge) {
-            mp[pair[0]] = pair[1];
+        for ( auto& pair : knowledge) //ei part ta transforms my 2d vector into fast lookup wala map
+        {
+            mp[pair[0]] = pair[1];//key ke value assign korche in map
         }
 
         string result = "";
