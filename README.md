@@ -51,6 +51,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1563-stone-game-v) |
@@ -202,6 +203,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -213,6 +215,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -280,4 +283,5 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
