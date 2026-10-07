@@ -151,6 +151,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
@@ -208,6 +209,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -222,6 +224,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -292,4 +295,5 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
