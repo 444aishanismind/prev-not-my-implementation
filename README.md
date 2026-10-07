@@ -7,6 +7,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
@@ -76,6 +77,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -105,6 +107,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -118,12 +121,14 @@ my profile : https://leetcode.com/u/444aishanismind/
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
