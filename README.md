@@ -218,6 +218,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -234,6 +235,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1441-build-an-array-with-stack-operations) |
@@ -304,4 +306,5 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
