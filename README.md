@@ -107,6 +107,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0700-search-in-a-binary-search-tree) |
@@ -115,6 +116,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0841-keys-and-rooms](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0841-keys-and-rooms) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -130,6 +132,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0700-search-in-a-binary-search-tree) |
@@ -231,6 +234,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | ------- |
 | [0020-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
