@@ -21,6 +21,5 @@ private:
 
 public:
     bool isBalanced(TreeNode* root) {
-        return checkHeight(root) != -1;
-    }
+         return (checkHeight(root)!=-1);}
 };
