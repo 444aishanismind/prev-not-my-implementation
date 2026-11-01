@@ -10,6 +10,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [0794-valid-tic-tac-toe-state](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0794-valid-tic-tac-toe-state) |
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
@@ -39,6 +40,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1401-circle-and-rectangle-overlapping) |
