@@ -22,17 +22,17 @@ public:
         int n = rooms.size();
         vector<bool> visited(n, false);
         
-        // Always start at room 0
+        
         dfs(0, rooms, visited);
         
-        //  if any room is still false we failed to unlock everything
+        
         for (bool v : visited) {
             if (!v) {
                 return false;
             }
         }
         
-        // Every single room was successfully visited
+        
         return true;
     }
 };
