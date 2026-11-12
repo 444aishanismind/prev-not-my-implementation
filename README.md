@@ -51,6 +51,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +180,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
 | ------- |
