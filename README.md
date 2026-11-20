@@ -25,6 +25,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -96,6 +97,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0621-task-scheduler](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1331-rank-transform-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -178,6 +180,7 @@ my profile : https://leetcode.com/u/444aishanismind/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2029-stone-game-ix) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/444aishanismind/prev-not-my-implementation/tree/master/3723-maximize-sum-of-squares-of-digits) |
